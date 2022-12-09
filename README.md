@@ -6,7 +6,7 @@
 
 1. 설치 방법에서는 PC, 맥, AWS EC2 등에서 사용할 수 있습니다. 
 
-##### 2. 맥에서 설치 방법
+### 2. 맥에서 설치 방법
 
 주로 저는 맥을 사용하기 많이 사용하기 때문에 맥 로컬 호스트로 설치하는 방법을 먼저 설명합니다. 
 
@@ -32,7 +32,7 @@ eval $(/opt/homebrew/bin/brew shellenv)
 
 export PATH=/usr/local/bin:/usr/local/sbin:$PATH
 
-##### 3. 로컬 호스트에서 젠킨스와 깃랩 통합하기
+### 3. 로컬 호스트에서 젠킨스와 깃랩 통합하기
 
 1. 깃랩을 SCM 시스템으로만 사용하고, 젠킨스를 CI/CD로 사용하는 방법은 다음의 문서를 참조하였습니다.
 
@@ -62,7 +62,7 @@ Host key verification failed. fatal: Could not read from remote repository.
 
 * 해결책을 모두 처리한 다음 반드시 Jenkins 도커를 다시 재실행시킵니다. 
 
-#### 4. 참고 사항
+### 4. 참고 사항
 
 설치 명령어는 다음과 같습니다.
 
@@ -72,9 +72,7 @@ Host key verification failed. fatal: Could not read from remote repository.
 * 젠킨스 서비스 재시작: brew services restart jenkins-lts
 * Update the Jenkins version: brew upgrade jenkins-lts
 
-
-
-#### 5. 참고 문서
+### 5. 참고 문서
 
 1. [Jenkins integration](https://docs.gitlab.com/ee/integration/jenkins.html)
 
