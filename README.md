@@ -59,7 +59,7 @@ Host key verification failed. fatal: Could not read from remote repository.
 
 1. [Jenkins integration](https://docs.gitlab.com/ee/integration/jenkins.html)
 2. [Docker Tutorial: A Step by Step Tutorial for Beginners](https://www.simplilearn.com/tutorials/docker-tutorial)
-3. [Best Guide on Getting Started with Docker [2023](https://www.simplilearn.com/tutorials/docker-tutorial/getting-started-with-docker)
+3. [Best Guide on Getting Started with Docker[2023]](https://www.simplilearn.com/tutorials/docker-tutorial/getting-started-with-docker)
 
  
 
