@@ -8,7 +8,7 @@
 
 1) [PC에서 설치 방법](PC_Jenkins.md)
 2) [Mac에서 설치 방법](Mac_Jenkins.md)
-3) [AWS EC2]에서 설치 방법(EC2_Jenkins.md)
+3) [AWS EC2에서 설치 방법](EC2_Jenkins.md)
 
 
 
