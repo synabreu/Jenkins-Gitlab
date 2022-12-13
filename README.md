@@ -7,7 +7,7 @@
 1. 설치 방법에서는 PC, 맥, AWS EC2 등에서 다음과 같이 사용할 수 있습니다.
 
 1) [PC에서 설치 방법](PC_Jenkins.md)
-2) [Mac에서 설치 방법](Mac_Jenkins.md)
+2) [Mac에서 설치 방법](MAC_Jenkins.md)
 3) [AWS EC2에서 설치 방법](EC2_Jenkins.md)
 
 
