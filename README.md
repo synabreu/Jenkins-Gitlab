@@ -35,6 +35,7 @@
 2) [젠킨스 파이프라인 문법](https://waspro.tistory.com/554)
 3) [Jenkins Tutorial](https://itnext.io/jenkins-tutorial-part-1-pipelines-bd1397cf5509)
 4) [Building with Docker Using Jenkins Pipelines](https://www.liatrio.com/blog/building-with-docker-using-jenkins-pipelines)
+5) [Jenkins pipeline 이용하기](https://jayy-h.tistory.com/31)
 
 
 # 4. 젠킨스 파이프라인 구축
@@ -43,9 +44,23 @@
 2) [Jenkins Build를 Gitlab에 Push와 함께 수행하도록 하기](https://tech.osci.kr/2020/01/16/jenkins-build%EB%A5%BC-gitlab%EC%97%90-push%EC%99%80-%ED%95%A8%EA%BB%98-%EC%88%98%ED%96%89%EB%90%98%EB%8F%84%EB%A1%9D-%ED%95%98%EA%B8%B0-2/)
 3) [CI/CD - Gitlab 과 Jenkins Maven 빌드 설정](https://zunoxi.tistory.com/102)
 4) [CI/CD - Gitlab Webhook으로 Jenkins Build Trigger](https://zunoxi.tistory.com/106?category=950188)
-5) [CI/CD - 젠킨스 자동빌드/자동배포(SSH 원격 접속)(https://zunoxi.tistory.com/107)
+5) [CI/CD - 젠킨스 자동빌드/자동배포(SSH 원격 접속](https://zunoxi.tistory.com/107)
+6) [Deploy Java application with Complete CI/CD pipeline Jenkins - Subversion, Jenkins, Tomcat](https://medium.com/@prashantsde/deploy-java-application-with-complete-ci-cd-pipeline-jenkins-21d210279794)
+7) [Set up a build pipeline with Jenkins and Amazon ECS](https://aws.amazon.com/ko/blogs/devops/set-up-a-build-pipeline-with-jenkins-and-amazon-ecs/)
+8) [Deploy Jenkins from Docker to AWS using ECS Fargate with Load Balancer](https://www.youtube.com/watch?v=ZhEGuDs6hR8)
+9) 
+
 
 
 8) [Gitlab Geo 구성하기](https://medium.com/ctc-mzc/gitlab-geo-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-%EB%B6%84%EC%84%9D-1-37cef8c440df)
 
+# 5. AWS CodePipeline
 
+1) [AWS CodePipeline을 활용해 CI/CD 적용하기](https://medium.com/ctc-mzc/aws-codepipeline%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-ci-cd-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-bef43bed1346)
+
+
+# 6. 기타
+
+1) [M1 Mac에서 우분투 20.04 ARM 설치 - GUI 포함](https://sincerity.page/random/Random-How_to_install_Ubuntu20.04_in_M1/)
+2) [How to run an Ubuntu Desktop virtual machine using VirtualBox 7](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#3-install-your-image)
+3)  
