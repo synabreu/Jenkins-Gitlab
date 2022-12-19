@@ -15,7 +15,7 @@
 
 1) [젠킨스 설치 및 리버스 프록시 설정](https://kscory.com/dev/jenkins/install)
 2) [젠킨스 리버스 프록시 설정 방법 - EC2, https](https://velog.io/@kimsehwan96/Jenkins-%EB%A6%AC%EB%B2%84%EC%8A%A4-%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%84%A4%EC%A0%95-%EB%B0%A9%EB%B2%95-with-EC2-https)
-3) 
+
 
 # 4. 젠킨스 빌드 및 배포
 
@@ -48,11 +48,7 @@
 6) [Deploy Java application with Complete CI/CD pipeline Jenkins - Subversion, Jenkins, Tomcat](https://medium.com/@prashantsde/deploy-java-application-with-complete-ci-cd-pipeline-jenkins-21d210279794)
 7) [Set up a build pipeline with Jenkins and Amazon ECS](https://aws.amazon.com/ko/blogs/devops/set-up-a-build-pipeline-with-jenkins-and-amazon-ecs/)
 8) [Deploy Jenkins from Docker to AWS using ECS Fargate with Load Balancer](https://www.youtube.com/watch?v=ZhEGuDs6hR8)
-9) 
-
-
-
-8) [Gitlab Geo 구성하기](https://medium.com/ctc-mzc/gitlab-geo-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-%EB%B6%84%EC%84%9D-1-37cef8c440df)
+9) [Gitlab Geo 구성하기](https://medium.com/ctc-mzc/gitlab-geo-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-%EB%B6%84%EC%84%9D-1-37cef8c440df)
 
 # 5. AWS CodePipeline
 
@@ -63,4 +59,4 @@
 
 1) [M1 Mac에서 우분투 20.04 ARM 설치 - GUI 포함](https://sincerity.page/random/Random-How_to_install_Ubuntu20.04_in_M1/)
 2) [How to run an Ubuntu Desktop virtual machine using VirtualBox 7](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#3-install-your-image)
-3)  
+
